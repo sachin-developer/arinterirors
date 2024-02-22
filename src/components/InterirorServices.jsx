@@ -12,8 +12,8 @@ const InteriorServices=()=>{
                 <div className="serviceCard max-w-80 shadow-2xl p-5 rounded">
                     <img src={img1} alt="ar interiros" />
                     <h2 className="my-3 font-bold text-xl text-emerald-700">Kitchen Interiors</h2>
-                    <p className="text-slate-500">Experience heavenly bedrooms designed by our expert interior designers, 
-                    offering comfort and soulful ambiance. Transform your master, kids, and guest bedrooms with designs that caress your soul.
+                    <p className="text-slate-500">Experience heavenly kitchen designed by our expert Kitchen designers, 
+                    offering comfort and soulful ambiance. Transform your kitchen rooms with designs that caress your soul.
                     </p>
                 </div>
                 <div className="serviceCard max-w-80 shadow-2xl p-5 rounded ">
@@ -25,7 +25,7 @@ const InteriorServices=()=>{
                 </div>
                 <div className="serviceCard max-w-80 shadow-2xl p-5 rounded">
                     <img src={img3} alt="ar interiros" />
-                    <h2 className="my-3 font-bold text-xl text-emerald-700">Living Romm Interiors</h2>
+                    <h2 className="my-3 font-bold text-xl text-emerald-700">Living Room Interiors</h2>
                     <p className="text-slate-500">There is a reason people call it a ‘living’ room. It is the liveliest place in your home. 
                     Our interior designers design your living room interiors with an ounce of comfort, class, positivity, and more style.
                     </p>
